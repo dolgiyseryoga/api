@@ -14,7 +14,7 @@ require_once './functions.php';
 
 <body>
 
-<?php showProducts(); ?>
+    <?php showProducts(); ?>
 
 </body>
 
